@@ -22,11 +22,11 @@ Come check out my [LinkedIn](https://www.linkedin.com/in/aarnav-gujjari-82335125
 
 ## Links to some headings...
 
-Link to the LinkedIn section: [Link Text](linkedin).
+Link to the LinkedIn section: [Link Text](#linkedin).
 
-Link to the About this site section: [Link Text](about-this-site).
+Link to the About this site section: [Link Text](#about-this-site).
 
-Link to the About me section: [Link Text](about-me-as-a-programmer).
+Link to the About me section: [Link Text](#about-me-as-a-programmer).
 
 [ReadMe file relative link](/README.md)
 
