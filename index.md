@@ -41,3 +41,9 @@ Link to the About me section: [About me](#about-me-as-a-programmer).
 2. CSE 101
 3. MATH 183
 4. GLBH 181
+
+## 4.0 Classes
+- [x] CSE 100
+- [X] CSE 101
+- [ ] MATH 183
+- [x] GLBH 181
