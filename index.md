@@ -1,5 +1,6 @@
 # Welcome to Aarnav's User Page
 
+![Aarnav](1769143204763.jpeg)
 ## About me as a programmer
 ### Hey, I’m **Aarnav**, an undergraduate at the University of California San Diego studying Computer Science.
 ### I’m interested in embedded systems, firmware engineering, and real-time software.
